@@ -1,1 +1,2 @@
 2023/12/13 16:12:49 [notice] 1028#6076: signal process started
+2023/12/13 16:13:51 [error] 28544#21844: *1 CreateFile() "E:\nginx-project\nginx-1.18.0-headnews\nginx-1.18.0/html/app-web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8801", referrer: "http://localhost:8801/"
